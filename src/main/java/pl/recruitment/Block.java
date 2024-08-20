@@ -1,2 +1,6 @@
-package pl.recruitment;public interface Block {
+package pl.recruitment;
+
+public interface Block {
+    String getColor();
+    String getMaterial();
 }
